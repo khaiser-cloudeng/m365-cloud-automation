@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# Environment / secrets (never commit)
+*.env
+secrets.json
+config.json
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# OS files
+.DS_Store
+Thumbs.db 
